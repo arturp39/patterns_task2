@@ -1,7 +1,5 @@
 package org.example.composite;
 
-import java.util.List;
-
 public interface ProjectComponent {
     void add(ProjectComponent component);
     void remove(ProjectComponent component);

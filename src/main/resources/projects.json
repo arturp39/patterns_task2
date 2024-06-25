@@ -1,0 +1,37 @@
+[
+  {
+    "type": "project",
+    "name": "Project Alpha",
+    "description": "Description of Project Alpha",
+    "tasks": [
+      {
+        "type": "task",
+        "name": "Task 1",
+        "description": "Description of Task 1",
+        "status": "TO_DO",
+        "deadline": "2023-12-31T00:00:00.000Z"
+      },
+      {
+        "type": "task",
+        "name": "Task 2",
+        "description": "Description of Task 2",
+        "status": "IN_PROGRESS",
+        "deadline": "2024-01-15T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "type": "project",
+    "name": "Project Beta",
+    "description": "Description of Project Beta",
+    "tasks": [
+      {
+        "type": "task",
+        "name": "Task 3",
+        "description": "Description of Task 3",
+        "status": "DONE",
+        "deadline": "2023-11-30T00:00:00.000Z"
+      }
+    ]
+  }
+]
